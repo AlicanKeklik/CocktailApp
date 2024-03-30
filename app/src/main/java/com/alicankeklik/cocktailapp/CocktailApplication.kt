@@ -6,3 +6,4 @@ import dagger.hilt.android.HiltAndroidApp
 @HiltAndroidApp
 class CocktailApplication:Application() {
 }
+ //deneme 2
